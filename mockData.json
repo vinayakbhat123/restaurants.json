@@ -1,4 +1,4 @@
-/*{
+{
   "statusCode": 0,
   "data": {
     "statusMessage": "done successfully",
@@ -1337,4 +1337,5 @@
   "sid": "n6xc9a7f-41ed-42e8-ab1e-ef09f43d9a68",
   "deviceId": "ce9e481b-1c08-6ac5-f199-0dd05fec6578",
   "csrfToken": "5mAyBxbjhxns-RlK_z8MPk7EYSqqt6D4zZpgTq5Y"
-} */
+
+} 
